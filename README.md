@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Selpy
 - 👀 I’m interested in full stack java development
-- 🌱 I’m currently learning java and angular as well as react
+- 🌱 I’m currently learning front-end and back-end technologies
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me selpymahlangu@gmail.com
 
